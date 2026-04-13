@@ -1,0 +1,24 @@
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Virtual Environment (The 'air' folder)
+air/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Database files
+users.db
+
+# Large Data Files (Optional but recommended)
+data/*.csv
+city_day.csv
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
